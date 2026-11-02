@@ -1,0 +1,20 @@
+# Large dataset files (must not be committed to GitHub)
+*.csv
+Books.csv
+Ratings.csv
+Users.csv
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
